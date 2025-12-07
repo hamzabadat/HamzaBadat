@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Hamza 👋
 
-<!--
-**hamzabadat/HamzaBadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science student with a growing passion for aviation, operations, and logistics.  
+I love building systems that improve efficiency, reliability, and real-world performance.
 
-Here are some ideas to get you started:
+### 🚀 Interests
+- Aviation systems & operations
+- Flight path optimisation
+- Data-driven logistics
+- Software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Currently Learning
+- Python, JavaScript, C++
+- SQL
+- Data Structures
+- Version Control with Git
+
+### ✈️ Future Projects
+- Flight delay prediction model  
+- Efficient aircraft route optimisation tool  
+- Logistics workflow analysis scripts  
