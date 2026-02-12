@@ -27,21 +27,18 @@ I have an international background (Germany, USA, Mexico) and strong communicati
 ### 📝 Rhyming Engine – "Poetry Helper"
 A word-matching engine that identifies rhyming words from a dataset using a custom **reverse suffix indexing** structure to reduce search complexity.  
 **Tech:** JavaScript  
-🔗 Repo: *(link it here once uploaded)*
 
 ---
 
 ### 📷 Image Processing & Face Detection Tool
 A real-time webcam image processing tool demonstrating grayscale conversion, RGB/HSV/Lab transformations, thresholding, and **face detection using ml5.js**.  
 **Tech:** JavaScript, HTML5 Canvas, ml5.js  
-🔗 Repo: *(link it here once uploaded)*
 
 ---
 
 ### 📈 Cryptocurrency Trading Simulator (C++ OOP)
 A console-based cryptocurrency trading simulator built in C++ using object-oriented design. Reads market data from CSV and performs analysis including candlestick generation.  
 **Tech:** C++  
-🔗 Repo: *(link it here once uploaded)*
 
 ---
 
