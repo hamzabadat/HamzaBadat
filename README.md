@@ -3,7 +3,7 @@
 I'm a **Computer Science student (BSc)**, currently based in **Aguascalientes, Mexico**.  
 I enjoy building practical software projects that combine **problem-solving, data processing, and real-world systems**.
 
-I have an international background (Germany, USA, Mexico) and strong communication skills, with experience working in multicultural environments.
+I have an international background (South Africa, Germany, USA, Mexico) and strong communication skills, with experience working in multicultural environments.
 
 ---
 
