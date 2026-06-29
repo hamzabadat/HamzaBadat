@@ -29,6 +29,8 @@ A fully-featured **Desktop DJ application built on the JUCE audio framework in C
 
 **Tech:** C++, JUCE Framework
 
+---
+
 ### ✈️ Aviation Operations Dashboard
 An **interactive flight delay analysis dashboard** processing **5.8 million flight records** to provide operational insights for aviation, logistics, and business analysis.
 
