@@ -1,6 +1,6 @@
 # Hi, I'm Hamza Badat 👋
 
-I'm a **Computer Science student (BSc)**, currently based in **Aguascalientes, Mexico**.  
+I'm a **Computer Science student (BSc)**, currently based in **South Africa**.  
 I enjoy building practical software projects that combine **problem-solving, data processing, and real-world systems**.
 
 I have an international background (South Africa, Germany, USA, Mexico) and strong communication skills, with experience working in multicultural environments.
@@ -24,17 +24,13 @@ I have an international background (South Africa, Germany, USA, Mexico) and stro
 
 ## 📌 Featured Projects
 
+###  🎛️ DJ Application
+A fully-featured **Desktop DJ application built on the JUCE audio framework in C++**. It provides two independent playback decks, a searchable music library, real-time audio processing, and a suite of professional DJ tools including hot cues, a 3-band equaliser, waveform display, and BPM tap tempo
+
+**Tech:** C++, JUCE Framework
+
 ### ✈️ Aviation Operations Dashboard
 An **interactive flight delay analysis dashboard** processing **5.8 million flight records** to provide operational insights for aviation, logistics, and business analysis.
-
-**Features:**
-- Air Gantt-style timeline visualization for flight operations
-- Root cause analysis identifying delay patterns and problem airports
-- Airline performance comparison and temporal trend analysis
-- Dynamic filtering by airline, date, and airport
-- Real-time operational indicators
-
-**Impact:** Demonstrates skills in data processing, business intelligence, and operations management - directly applicable to analyst and logistics coordinator roles.
 
 **Tech:** Python, Pandas, Plotly, Streamlit  
 **Dataset:** U.S. DOT Flight Data (2015)  
